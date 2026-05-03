@@ -15,7 +15,7 @@ bundle: {
 			namespace: "chuck-norris"
 			values: {
 				image: {
-					tag: "b41ee6c" // CI:frontend updates this line automatically — do not edit manually.
+					tag: "d4d7b22" // CI:frontend updates this line automatically — do not edit manually.
 				}
 				app: {
 					apiUrl:   "https://chuck.filhype.ovh"
