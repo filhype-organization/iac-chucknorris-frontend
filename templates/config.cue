@@ -43,5 +43,6 @@ package templates
 		apiUrl:   *"https://chuck.filhype.ovh/api" | string
 		authUrl:  *"https://dev-lesson.eu.auth0.com" | string
 		clientId: *"" | string
+		audience: *"chuck-norris-api" | string
 	}
 }

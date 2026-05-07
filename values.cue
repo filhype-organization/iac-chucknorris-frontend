@@ -37,5 +37,6 @@ values: {
 		apiUrl:   "https://chuck.filhype.ovh"
 		authUrl:  "https://dev-lesson.eu.auth0.com"
 		clientId: "4LbdqWChDwptSbOBz4ljZ8Le7sYDLZPr"
+		audience: "chuck-norris-api"
 	}
 }

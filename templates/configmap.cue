@@ -19,5 +19,6 @@ package templates
 		NG_APP_API_URL:   #config.app.apiUrl
 		NG_APP_AUTH_URL:  #config.app.authUrl
 		NG_APP_CLIENT_ID: #config.app.clientId
+		NG_APP_AUDIENCE:  #config.app.audience
 	}
 }
